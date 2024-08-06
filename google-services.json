@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772920753677",
+    "firebase_url": "https://eduquaters-12bc5-default-rtdb.firebaseio.com",
+    "project_id": "eduquaters-12bc5",
+    "storage_bucket": "eduquaters-12bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772920753677:android:a4009f14d875f454cbdf44",
+        "android_client_info": {
+          "package_name": "com.example.eduquaters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpu3r5lZOD4AVQgpEk2p4jsA0DGIB4CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
